@@ -23,6 +23,10 @@ naruto
 itachi
 ![itachi](https://wallpapercave.com/wp/w3spi7J.jpg)
 
+
+![akatsuki](https://c4.wallpaperflare.com/wallpaper/311/58/344/anime-naruto-akatsuki-naruto-deidara-naruto-wallpaper-preview.jpg)
+
+
 |S.No|Roll|Name|Branch|
 |---|-----|---------|------|
 |1|70|Berlin|CSE|
